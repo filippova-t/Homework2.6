@@ -51,7 +51,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7));
+        List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 12, 3, 8, 4, 4, 5, 5, 6, 7));
         //Задание 1  только нечетные числа
         System.out.println(findOdds (nums));
         //Задание 2 только четные числа без повторений в порядке возрастания
