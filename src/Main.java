@@ -45,6 +45,7 @@ public class Main {
                 System.out.println("слово = " + entry.getKey() + ", повторений = " + entry.getValue());
             }
         }
+        System.out.println("2.6");
     }
 
 
